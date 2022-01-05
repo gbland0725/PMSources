@@ -1,0 +1,24 @@
+,1,2,3,4,5,6,7,8,9,10
+Soil and Construction,['48Ti' '54Fe+138Ba' '48Ti+88Sr' '48Ti+90Zr+93Nb' '48Ti+139La+140Ce'],['139La+140Ce' '55Mn+54Fe' '48Ti+140Ce' '208Pb' '140Ce+208Pb'],['55Mn' '48Ti+54Fe' '48Ti+55Mn+54Fe' '55Mn+140Ce' '48Ti+55Mn+54Fe+138Ba'],"['89Y+90Zr' '54Fe+85Rb' '138Ba+140Ce' '48Ti+88Sr+89Y+90Zr+138Ba+140Ce'
+ '55Mn+54Fe+89Y+90Zr+138Ba+140Ce+180Hf']",['54Fe' '140Ce' '48Ti+54Fe' '89Y+90Zr' '48Ti+138Ba'],['138Ba' '55Mn+54Fe' '88Sr' '48Ti+90Zr' '85Rb+138Ba'],"['48Ti+55Mn+54Fe+138Ba' '202Hg' '48Ti+54Fe+138Ba'
+ '48Ti+55Mn+54Fe+60Ni+138Ba']","['48Ti+93Nb' '48Ti+55Mn' '89Y+90Zr+180Hf+238U' '54Fe+140Ce'
+ '48Ti+51V+55Mn+54Fe']",['139La' '48Ti+138Ba' '48Ti+54Fe+90Zr' '48Ti+89Y' '90Zr+139La+140Ce'],['90Zr' '48Ti+55Mn' '85Rb' '88Sr+139La+140Ce' '88Sr+138Ba']
+Coal burning,"['48Ti' '55Mn+208Pb' '64Zn+208Pb' '48Ti+55Mn+54Fe+90Zr+140Ce+208Pb'
+ '54Fe+138Ba']",['208Pb' '120Sn' '55Mn+54Fe' '107Ag' '63Cu+64Zn'],['55Mn' '55Mn+54Fe+208Pb' '48Ti+54Fe' '55Mn+54Fe+64Zn+208Pb' '59Co'],['55Mn+54Fe+120Sn+208Pb' '69Ga' '133Cs' '53Cr' '54Fe+64Zn+208Pb'],"['54Fe' '120Sn+208Pb' '55Mn+54Fe+63Cu+64Zn+208Pb' '140Ce'
+ '63Cu+64Zn+208Pb']",['138Ba' '88Sr' '121Sb' '55Mn+54Fe' '48Ti+90Zr'],"['64Zn' '55Mn+54Fe+63Cu+64Zn+120Sn+208Pb'
+ '48Ti+55Mn+54Fe+63Cu+64Zn+120Sn+208Pb' '55Mn+54Fe+64Zn+120Sn+208Pb'
+ '63Cu+208Pb']","['63Cu' '48Ti+55Mn' '120Sn+121Sb' '48Ti+120Sn+121Sb+208Pb'
+ '48Ti+55Mn+208Pb']","['54Fe+208Pb' '55Mn+54Fe+64Zn' '55Mn+54Fe+63Cu+64Zn' '55Mn+63Cu+64Zn'
+ '63Cu+64Zn']","['85Rb' '90Zr' '139La+140Ce+208Pb' '48Ti+51V+55Mn+54Fe+85Rb+138Ba'
+ '48Ti+54Fe+138Ba']"
+Industrial emission,['48Ti' '55Mn+208Pb' '48Ti+88Sr' '54Fe+138Ba' '54Fe+90Zr'],['55Mn+54Fe' '107Ag' '208Pb' '139La+140Ce' '63Cu+64Zn'],"['55Mn' '55Mn+54Fe+208Pb' '48Ti+55Mn+54Fe' '54Fe+139La'
+ '55Mn+54Fe+69Ga+138Ba']","['55Mn+54Fe+63Cu+208Pb' '54Fe+63Cu+208Pb' '48Ti+55Mn+54Fe+63Cu+208Pb'
+ '53Cr' '55Mn+107Ag']","['54Fe' '48Ti+54Fe' '140Ce' '63Cu+208Pb'
+ '48Ti+51V+55Mn+54Fe+59Co+63Cu+208Pb']",['55Mn+54Fe' '138Ba' '88Sr' '72Ge' '48Ti+54Fe+88Sr'],"['54Fe+63Cu' '48Ti+55Mn+54Fe+59Co+63Cu+107Ag+169Tm+208Pb' '51V+208Pb'
+ '63Cu+208Pb']","['63Cu' '55Mn+54Fe+63Cu' '48Ti+54Fe+63Cu' '54Fe+107Ag'
+ '48Ti+51V+54Fe+63Cu']",['54Fe+208Pb' '48Ti+138Ba' '55Mn+54Fe+64Zn' '55Mn+54Fe+60Ni' '139La+140Ce'],"['55Mn+138Ba' '90Zr' '48Ti+55Mn' '138Ba+139La+140Ce'
+ '48Ti+54Fe+88Sr+138Ba']"
+Car exhaust,['48Ti' '75As' '54Fe+138Ba' '192Os' '48Ti+55Mn+54Fe+85Rb+138Ba'],['208Pb' '120Sn' '107Ag' '195Pt' '55Mn+54Fe'],['55Mn' '59Co' '60Ni' '48Ti+54Fe' '164Dy'],['69Ga' '53Cr' '133Cs' '180Hf' '153Eu+208Pb'],['54Fe' '55Mn+208Pb' '48Ti+54Fe' '140Ce' '63Cu+138Ba+208Pb'],['138Ba' '55Mn+54Fe' '72Ge' '88Sr' '114Cd'],['64Zn' '78Se' '165Ho' '202Hg' '63Cu+208Pb'],"['63Cu' '55Mn+54Fe+63Cu' '48Ti+51V+55Mn+54Fe+59Co+64Zn'
+ '48Ti+51V+55Mn+54Fe+63Cu+64Zn+120Sn+140Ce+208Pb' '48Ti+54Fe+138Ba+208Pb']",['139La' '55Mn+54Fe+63Cu+64Zn' '54Fe+208Pb' '48Ti+138Ba' '55Mn+54Fe+64Zn'],['85Rb' '90Zr' '197Au' '51V' '55Mn+138Ba']
+Biomass,['48Ti' '54Fe+138Ba' '192Os' '63Cu+138Ba' '54Fe+85Rb+138Ba'],['107Ag' '55Mn+54Fe' '120Sn' '139La+140Ce' '195Pt'],['55Mn' '48Ti+54Fe' '59Co' '193Ir' '238U'],['69Ga' '53Cr' '98Mo' '133Cs' '138Ba+140Ce'],['54Fe' '140Ce' '48Ti+54Fe' '48Ti+54Fe+63Cu+138Ba' '48Ti+54Fe+140Ce+208Pb'],['138Ba' '88Sr' '55Mn+54Fe' '72Ge' '159Tb'],['78Se' '64Zn' '202Hg' '175Lu' '48Ti+54Fe+138Ba'],['63Cu' '89Y' '54Fe+140Ce' '48Ti+51V+54Fe' '48Ti+54Fe+140Ce'],"['139La' '48Ti+55Mn+54Fe+138Ba' '48Ti+55Mn+54Fe+64Zn+138Ba' '108Pd'
+ '55Mn+54Fe+64Zn+138Ba']",['85Rb' '197Au' '93Nb' '90Zr' '48Ti+54Fe+138Ba']

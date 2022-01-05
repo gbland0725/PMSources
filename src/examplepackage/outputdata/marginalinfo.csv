@@ -1,0 +1,101 @@
+,index,Value,labels,Multi Value
+0,Fe,1230,Industrial emission,674
+0,Pb,1201,Coal burning,656
+1,Mn,915,Industrial emission,621
+0,Ti,896,Soil and Construction,401
+0,Fe,694,Car exhaust,311
+0,Fe,683,Biomass,293
+1,Fe,667,Coal burning,542
+2,Mn,653,Coal burning,539
+1,Fe,620,Soil and Construction,394
+2,Mn,592,Soil and Construction,323
+3,Zn,517,Coal burning,426
+1,Ti,447,Biomass,237
+1,Mn,415,Car exhaust,204
+2,Ti,357,Industrial emission,205
+2,Ba,346,Car exhaust,147
+3,Ba,345,Soil and Construction,216
+3,Ti,339,Car exhaust,166
+4,Sn,312,Coal burning,285
+5,Cu,309,Coal burning,271
+2,Mn,304,Biomass,210
+6,Ti,291,Coal burning,207
+3,Pb,266,Industrial emission,244
+3,Cu,262,Biomass,110
+4,Ba,261,Biomass,188
+5,Zn,222,Biomass,134
+4,Ce,204,Soil and Construction,159
+4,Pb,200,Car exhaust,163
+4,Cu,199,Industrial emission,178
+5,Zr,172,Soil and Construction,93
+5,Zn,158,Car exhaust,62
+6,Sr,157,Biomass,65
+5,Ba,138,Industrial emission,124
+6,Cu,122,Car exhaust,89
+6,Sr,114,Soil and Construction,72
+7,Se,113,Biomass,0
+7,Ga,112,Car exhaust,30
+7,La,109,Soil and Construction,100
+7,Ce,104,Coal burning,94
+8,Ce,93,Biomass,57
+6,Ce,90,Industrial emission,74
+8,Sb,89,Coal burning,77
+8,Sn,87,Car exhaust,40
+7,Zr,84,Industrial emission,59
+9,Ba,79,Coal burning,56
+9,Cr,78,Car exhaust,33
+8,Rb,77,Soil and Construction,65
+10,Ni,74,Car exhaust,21
+9,Rb,71,Biomass,46
+10,Zr,66,Coal burning,60
+11,Sr,64,Coal burning,45
+9,Y,64,Soil and Construction,61
+8,Ag,58,Industrial emission,23
+10,Pb,57,Biomass,51
+11,Se,52,Car exhaust,0
+9,La,51,Industrial emission,47
+10,Sr,48,Industrial emission,37
+12,Sr,45,Car exhaust,17
+12,Pb,43,Soil and Construction,42
+13,Rb,41,Car exhaust,26
+12,Zn,39,Industrial emission,29
+12,La,36,Coal burning,33
+15,Ce,35,Car exhaust,27
+16,Zr,34,Car exhaust,17
+14,Zr,31,Biomass,15
+15,La,30,Biomass,24
+13,Ga,29,Coal burning,12
+16,Cr,28,Biomass,13
+17,Ga,28,Biomass,17
+19,Sn,26,Biomass,4
+14,Zn,25,Soil and Construction,20
+21,Ni,24,Biomass,7
+20,Y,24,Biomass,14
+14,Y,21,Coal burning,17
+15,Ga,21,Soil and Construction,20
+13,Cr,21,Industrial emission,12
+18,La,19,Car exhaust,12
+14,Ga,19,Industrial emission,15
+15,Y,18,Industrial emission,16
+16,Rb,17,Coal burning,3
+16,Ni,16,Industrial emission,13
+20,Sb,15,Car exhaust,7
+21,Y,13,Car exhaust,6
+19,Cr,11,Coal burning,10
+27,Ag,11,Biomass,1
+30,Sb,10,Biomass,1
+20,Ag,10,Coal burning,6
+21,Se,9,Coal burning,0
+22,Ni,8,Coal burning,4
+19,Ni,5,Soil and Construction,4
+30,Ag,5,Car exhaust,1
+21,Cr,4,Soil and Construction,2
+27,Cu,3,Soil and Construction,3
+26,Rb,3,Industrial emission,2
+28,Sn,2,Soil and Construction,2
+31,Se,2,Soil and Construction,1
+34,Se,2,Industrial emission,2
+32,Sb,1,Soil and Construction,1
+35,Ag,1,Soil and Construction,1
+37,Sn,1,Industrial emission,0
+43,Sb,0,Industrial emission,0
